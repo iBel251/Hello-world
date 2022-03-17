@@ -1,17 +1,12 @@
-Project Name
 Hello microverse
-
-Description the project.
 My first microverse project.
 
 Built With
-Major languages HTML & CSS
+HTML & CSS
+Visual studio code
 
-Frameworks
-VSC
-
+Authors
 👤 Imran Belete
-
 GitHub: @ibel251
 Twitter: ibbimran7@gmail.com
 LinkedIn: ibbimran7@gmail.com
@@ -27,6 +22,5 @@ Give a ⭐️ if you like this project!
 Acknowledgments
 Hat tip to anyone whose code was used
 Inspiration
-etc
-📝 License
-This project is MIT licensed.
+Microverse
+
